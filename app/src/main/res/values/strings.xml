@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabLayoutCustom</string>
+
+    <array name="title_test">
+        <item>1週間 tab1</item>
+        <item>1ヶ月 tab2</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
